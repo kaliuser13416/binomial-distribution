@@ -1,2 +1,2 @@
 # binomial-distribution
-simple calculator for binomial distribution
+Simple calculator for the binomial distribution
